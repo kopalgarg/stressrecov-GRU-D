@@ -13,7 +13,7 @@ import scipy.stats
 from scipy import signal
 from ast import literal_eval
 import torch
-from trainGRUD.py import *
+from train_GRUD.py import *
 from GRUD.py import *
 
 from sklearn.model_selection import train_test_split
